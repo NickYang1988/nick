@@ -16,6 +16,3 @@ Find out more of my awesome projects below, or subscribe me by clicking the "Fol
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=NickYang1988&show_icons=true&count_private=true&theme=radical)](https://github.com/NickYang1988)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickYang1988&layout=compact&theme=radical)](https://github.com/NickYang1988)
-
-#### Github Status
-![GitHub metrics](https://metrics.lecoq.io/NickYang1988?languages=1)
