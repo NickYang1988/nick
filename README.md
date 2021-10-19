@@ -14,5 +14,8 @@
 
 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=NickYang1988&show_icons=true&count_private=true&theme=radical)](https://github.com/NickYang1988)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickYang1988&layout=compact&theme=radical)](https://github.com/NickYang1988)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NickYang1988&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NickYang1988&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NickYang1988&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NickYang1988&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NickYang1988&theme=github)
