@@ -1,4 +1,4 @@
-#### Hi there 👋, I am [Nick](https://github.com/NickYang1988)
+#### Hi there 👋, I am [Nick](https://github.com/nickyang4github)
 
 > A programmer who is passionate about backend technologies and open source.
 
