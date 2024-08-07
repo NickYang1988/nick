@@ -13,7 +13,6 @@
 
 **Where to find me**
 
-- [My Blog](https://cppfans.org)
 - [E-Mail](mailto:nickyang4self_at_gmail.com)
 
 
@@ -21,4 +20,4 @@
 
 **You are probably also looking for...**
 
-Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
+Find out more of my awesome projects below, or subscribe to me by clicking the "Follow" button.
